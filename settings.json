@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FynxOP.aternos.me",
-    "port": 33017,
+    "ip": "FriendsSmpDBS.aternos.me",
+    "port": 26689,
     "version": "",
     "try-creative": false
   },
